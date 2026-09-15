@@ -1,0 +1,6 @@
+{
+  "name": "Bol English",
+  "description": "Beginner-friendly English communication learning app for Hindi speakers with Hinglish explanations, 15-step roadmap, and AI conversation partner.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
